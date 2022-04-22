@@ -1,0 +1,2 @@
+- le front correspond a tous les affichages liees a l'utilisateur de l'application
+- le backend correspond a tous les affichages liees aux administrateurs
